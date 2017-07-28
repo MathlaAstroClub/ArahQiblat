@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Qiblat1</string>
+    <string name="hasil">Address</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="address">Address</string>
+    <string name="use_address">Use Address</string>
+    <string name="use_location">Use Latitude/Longitude</string>
+    <string name="get_address">Get Address</string>
+    <string name="hitung">Hitung</string>
+</resources>
